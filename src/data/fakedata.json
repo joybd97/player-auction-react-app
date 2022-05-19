@@ -1,0 +1,76 @@
+[
+    {
+        "id": "1",
+        "name":"Sakib Al Hasan",
+        "price":15000000,
+        "img":"1.jpg"
+
+    },
+    {
+        "id":"2",
+        "name":"Tamim Iqbal",
+        "price":10000000,
+        "img":"2.jpg"
+    },
+    {
+        "id":"3",
+        "name":"Mushfiqur Rahim",
+        "price":10000000,
+        "img":"3.jpg"
+    },
+    {
+        "id":"4",
+        "name":"Liton Das",
+        "price":8000000,
+        "img":"4.jpg"
+    },
+    {
+        "id":"5",
+        "name":"Anamul Haque",
+        "price":5000000,
+        "img":"5.jpg"
+    },
+    {
+        "id":"6",
+        "name":"Mustafizur Rahman",
+        "price":10000000,
+        "img":"6.jpg"
+    },
+    {
+        "id":"7",
+        "name":"Mehedi Hasan Miraz",
+        "price":7000000,
+        "img":"7.jpg"
+    },
+    {
+        "id":"8",
+        "name":"Taijul Islam",
+        "price":5000000,
+        "img":"8.jpg"
+    },
+    {
+        "id":"9",
+        "name":"Nurul Hasan",
+        "price":2000000,
+        "img":"9.jpg"
+    },
+    {
+        "id":"10",
+        "name":"Shoriful Islam",
+        "price":4000000,
+        "img":"10.jpg"
+    },
+    {
+        "id":"11",
+        "name":"Mashrafe Bin Murtaza",
+        "price":10000000,
+        "img":"11.jpg"
+    },
+    {
+        "id":"12",
+        "name":"Mahmudullah Riyad",
+        "price":8000000,
+        "img":"12.jpg"
+    }
+
+]
